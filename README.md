@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to awesome game of Tetris in simple way.
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -19,5 +19,5 @@ To play the game:
 6. To pause the game, just press the space bar again.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
-
+.
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
